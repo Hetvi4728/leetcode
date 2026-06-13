@@ -13,7 +13,9 @@ This repository includes:
 - ✅ Beginner-friendly code
 - ✅ Efficient algorithms and approaches
 - ✅ Regular problem-solving updates
+- ✅ Easy to hard problem-solving 
 - ✅ Problems from different difficulty levels
+
 
 ---
 
