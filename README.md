@@ -36,4 +36,12 @@ This repository includes:
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Hetvi4728/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Hetvi4728/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
