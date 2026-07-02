@@ -31,6 +31,7 @@ This repository includes:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hetvi4728/leetcode/tree/master/0011-container-with-most-water) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -44,4 +45,12 @@ This repository includes:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Hetvi4728/leetcode/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Hetvi4728/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Hetvi4728/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
