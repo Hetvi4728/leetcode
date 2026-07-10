@@ -35,6 +35,7 @@ This repository includes:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hetvi4728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hetvi4728/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ This repository includes:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Hetvi4728/leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +54,7 @@ This repository includes:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hetvi4728/leetcode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
