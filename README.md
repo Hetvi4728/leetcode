@@ -31,6 +31,7 @@ This repository includes:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hetvi4728/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Hetvi4728/leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hetvi4728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hetvi4728/leetcode/tree/master/0136-single-number) |
@@ -70,6 +71,7 @@ This repository includes:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hetvi4728/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
