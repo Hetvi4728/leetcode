@@ -40,11 +40,13 @@ This repository includes:
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Hetvi4728/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Hetvi4728/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Hetvi4728/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
