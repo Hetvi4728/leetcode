@@ -34,6 +34,7 @@ This repository includes:
 | [0001-two-sum](https://github.com/Hetvi4728/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Hetvi4728/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/Hetvi4728/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Hetvi4728/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hetvi4728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hetvi4728/leetcode/tree/master/0136-single-number) |
@@ -89,6 +90,7 @@ This repository includes:
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Hetvi4728/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Hetvi4728/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
 ## Counting
