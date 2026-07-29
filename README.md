@@ -55,6 +55,7 @@ This repository includes:
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Hetvi4728/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Hetvi4728/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
