@@ -49,6 +49,7 @@ This repository includes:
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hetvi4728/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Hetvi4728/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Binary Search
 |  |
 | ------- |
