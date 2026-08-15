@@ -68,6 +68,7 @@ This repository includes:
 | [0050-powx-n](https://github.com/Hetvi4728/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Hetvi4728/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
 ## Recursion
@@ -81,6 +82,7 @@ This repository includes:
 | [0027-remove-element](https://github.com/Hetvi4728/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Hetvi4728/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +104,7 @@ This repository includes:
 | [0001-two-sum](https://github.com/Hetvi4728/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Hetvi4728/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,4 +159,8 @@ This repository includes:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
