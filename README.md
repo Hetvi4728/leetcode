@@ -47,6 +47,7 @@ This repository includes:
 | [0238-product-of-array-except-self](https://github.com/Hetvi4728/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Hetvi4728/leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hetvi4728/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -87,6 +88,7 @@ This repository includes:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hetvi4728/leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@ This repository includes:
 | [0075-sort-colors](https://github.com/Hetvi4728/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Hetvi4728/leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
 |  |
@@ -163,4 +166,8 @@ This repository includes:
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
