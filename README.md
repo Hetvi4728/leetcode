@@ -100,6 +100,7 @@ This repository includes:
 | ------- |
 | [0067-add-binary](https://github.com/Hetvi4728/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Hetvi4728/leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ This repository includes:
 | [0013-roman-to-integer](https://github.com/Hetvi4728/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +121,7 @@ This repository includes:
 | [0056-merge-intervals](https://github.com/Hetvi4728/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Hetvi4728/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Hetvi4728/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -145,6 +148,7 @@ This repository includes:
 | [0020-valid-parentheses](https://github.com/Hetvi4728/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Hetvi4728/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hetvi4728/leetcode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
