@@ -71,6 +71,7 @@ This repository includes:
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Hetvi4728/leetcode/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
