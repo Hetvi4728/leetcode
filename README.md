@@ -59,6 +59,7 @@ This repository includes:
 | [0004-median-of-two-sorted-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hetvi4728/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Hetvi4728/leetcode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hetvi4728/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -69,6 +70,7 @@ This repository includes:
 | [0013-roman-to-integer](https://github.com/Hetvi4728/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Hetvi4728/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Hetvi4728/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Hetvi4728/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
@@ -178,4 +180,8 @@ This repository includes:
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Hetvi4728/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
