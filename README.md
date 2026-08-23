@@ -51,6 +51,7 @@ This repository includes:
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hetvi4728/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/Hetvi4728/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hetvi4728/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Binary Search
@@ -90,6 +91,7 @@ This repository includes:
 | [0088-merge-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
+| [0905-sort-array-by-parity](https://github.com/Hetvi4728/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +133,7 @@ This repository includes:
 | [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Hetvi4728/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/Hetvi4728/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
 |  |
