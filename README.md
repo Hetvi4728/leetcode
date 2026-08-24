@@ -76,6 +76,7 @@ This repository includes:
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Hetvi4728/leetcode/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/Hetvi4728/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hetvi4728/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
