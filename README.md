@@ -62,6 +62,7 @@ This repository includes:
 | [0033-search-in-rotated-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hetvi4728/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hetvi4728/leetcode/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/Hetvi4728/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hetvi4728/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -191,4 +192,8 @@ This repository includes:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Hetvi4728/leetcode/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Hetvi4728/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
