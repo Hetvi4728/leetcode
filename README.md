@@ -47,6 +47,7 @@ This repository includes:
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Hetvi4728/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Hetvi4728/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Hetvi4728/leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
@@ -96,6 +97,7 @@ This repository includes:
 | [0088-merge-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Hetvi4728/leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Hetvi4728/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
