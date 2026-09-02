@@ -49,6 +49,7 @@ This repository includes:
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Hetvi4728/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Hetvi4728/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Hetvi4728/leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
@@ -66,6 +67,7 @@ This repository includes:
 | [0033-search-in-rotated-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hetvi4728/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hetvi4728/leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hetvi4728/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
@@ -105,6 +107,7 @@ This repository includes:
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Hetvi4728/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Hetvi4728/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -132,6 +135,7 @@ This repository includes:
 | [0013-roman-to-integer](https://github.com/Hetvi4728/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -146,6 +150,7 @@ This repository includes:
 | [0075-sort-colors](https://github.com/Hetvi4728/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Hetvi4728/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
