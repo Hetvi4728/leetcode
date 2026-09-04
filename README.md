@@ -53,6 +53,7 @@ This repository includes:
 | [0414-third-maximum-number](https://github.com/Hetvi4728/leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/Hetvi4728/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Hetvi4728/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hetvi4728/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Hetvi4728/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -187,11 +188,13 @@ This repository includes:
 | ------- |
 | [0067-add-binary](https://github.com/Hetvi4728/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Hetvi4728/leetcode/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/Hetvi4728/leetcode/tree/master/1103-distribute-candies-to-people) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hetvi4728/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Hetvi4728/leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
