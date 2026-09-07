@@ -124,6 +124,7 @@ This repository includes:
 | [0053-maximum-subarray](https://github.com/Hetvi4728/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hetvi4728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Hetvi4728/leetcode/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/Hetvi4728/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
@@ -186,6 +187,7 @@ This repository includes:
 | [0058-length-of-last-word](https://github.com/Hetvi4728/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hetvi4728/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
+| [0940-distinct-subsequences-ii](https://github.com/Hetvi4728/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
 | ------- |
