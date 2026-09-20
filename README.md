@@ -85,6 +85,7 @@ This repository includes:
 | [0066-plus-one](https://github.com/Hetvi4728/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Hetvi4728/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Hetvi4728/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Hetvi4728/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
@@ -126,6 +127,7 @@ This repository includes:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hetvi4728/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Hetvi4728/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hetvi4728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Hetvi4728/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Hetvi4728/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -232,6 +234,7 @@ This repository includes:
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hetvi4728/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Hetvi4728/leetcode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
