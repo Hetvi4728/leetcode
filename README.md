@@ -206,6 +206,7 @@ This repository includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hetvi4728/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Hetvi4728/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Hetvi4728/leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
@@ -244,4 +245,8 @@ This repository includes:
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Hetvi4728/leetcode/tree/master/0183-customers-who-never-order) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Hetvi4728/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
