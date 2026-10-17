@@ -43,6 +43,7 @@ This repository includes:
 | [0066-plus-one](https://github.com/Hetvi4728/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Hetvi4728/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hetvi4728/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hetvi4728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hetvi4728/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
@@ -157,6 +158,7 @@ This repository includes:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Hetvi4728/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hetvi4728/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -275,6 +277,7 @@ This repository includes:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hetvi4728/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -285,5 +288,10 @@ This repository includes:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hetvi4728/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hetvi4728/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
