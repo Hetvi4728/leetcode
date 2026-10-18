@@ -53,6 +53,7 @@ This repository includes:
 | [0283-move-zeroes](https://github.com/Hetvi4728/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Hetvi4728/leetcode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Hetvi4728/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Hetvi4728/leetcode/tree/master/0682-baseball-game) |
