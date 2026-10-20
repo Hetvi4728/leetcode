@@ -48,6 +48,7 @@ This repository includes:
 | [0136-single-number](https://github.com/Hetvi4728/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hetvi4728/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Hetvi4728/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Hetvi4728/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Hetvi4728/leetcode/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ This repository includes:
 | [0070-climbing-stairs](https://github.com/Hetvi4728/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Hetvi4728/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hetvi4728/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Hetvi4728/leetcode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Hetvi4728/leetcode/tree/master/0509-fibonacci-number) |
@@ -231,6 +233,7 @@ This repository includes:
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -305,4 +308,20 @@ This repository includes:
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
