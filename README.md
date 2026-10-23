@@ -210,6 +210,7 @@ This repository includes:
 | [0020-valid-parentheses](https://github.com/Hetvi4728/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Hetvi4728/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hetvi4728/leetcode/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/Hetvi4728/leetcode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
 | [0940-distinct-subsequences-ii](https://github.com/Hetvi4728/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Hetvi4728/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -295,6 +296,7 @@ This repository includes:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hetvi4728/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Hetvi4728/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -302,6 +304,7 @@ This repository includes:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Hetvi4728/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -310,6 +313,7 @@ This repository includes:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hetvi4728/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hetvi4728/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Hetvi4728/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -334,4 +338,8 @@ This repository includes:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Hetvi4728/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
