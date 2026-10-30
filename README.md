@@ -77,6 +77,7 @@ This repository includes:
 | [0035-search-insert-position](https://github.com/Hetvi4728/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hetvi4728/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Hetvi4728/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Hetvi4728/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hetvi4728/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -258,6 +259,7 @@ This repository includes:
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Hetvi4728/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hetvi4728/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Memoization
 |  |
