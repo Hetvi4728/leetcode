@@ -69,6 +69,7 @@ This repository includes:
 | [1929-concatenation-of-array](https://github.com/Hetvi4728/leetcode/tree/master/1929-concatenation-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hetvi4728/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3693-climbing-stairs-ii](https://github.com/Hetvi4728/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hetvi4728/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hetvi4728/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -150,6 +151,7 @@ This repository includes:
 | [0509-fibonacci-number](https://github.com/Hetvi4728/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Hetvi4728/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
+| [3693-climbing-stairs-ii](https://github.com/Hetvi4728/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
