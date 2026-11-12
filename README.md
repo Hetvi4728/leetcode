@@ -317,6 +317,7 @@ This repository includes:
 | [0257-binary-tree-paths](https://github.com/Hetvi4728/leetcode/tree/master/0257-binary-tree-paths) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hetvi4728/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -332,6 +333,7 @@ This repository includes:
 | [0257-binary-tree-paths](https://github.com/Hetvi4728/leetcode/tree/master/0257-binary-tree-paths) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hetvi4728/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,6 +350,7 @@ This repository includes:
 | [0257-binary-tree-paths](https://github.com/Hetvi4728/leetcode/tree/master/0257-binary-tree-paths) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hetvi4728/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -362,6 +365,7 @@ This repository includes:
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hetvi4728/leetcode/tree/master/0112-path-sum) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hetvi4728/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
