@@ -67,6 +67,7 @@ This repository includes:
 | [1470-shuffle-the-array](https://github.com/Hetvi4728/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Hetvi4728/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Hetvi4728/leetcode/tree/master/1929-concatenation-of-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Hetvi4728/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hetvi4728/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3693-climbing-stairs-ii](https://github.com/Hetvi4728/leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -144,6 +145,7 @@ This repository includes:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hetvi4728/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Hetvi4728/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,6 +197,7 @@ This repository includes:
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Hetvi4728/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Hetvi4728/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
 |  |
