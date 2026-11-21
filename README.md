@@ -71,6 +71,7 @@ This repository includes:
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hetvi4728/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Hetvi4728/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Hetvi4728/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3693-climbing-stairs-ii](https://github.com/Hetvi4728/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hetvi4728/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hetvi4728/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -177,6 +178,7 @@ This repository includes:
 | [0268-missing-number](https://github.com/Hetvi4728/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hetvi4728/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Hetvi4728/leetcode/tree/master/0389-find-the-difference) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Hetvi4728/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,6 +234,7 @@ This repository includes:
 | [1021-remove-outermost-parentheses](https://github.com/Hetvi4728/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hetvi4728/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Hetvi4728/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Hetvi4728/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -325,6 +328,7 @@ This repository includes:
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hetvi4728/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0965-univalued-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Hetvi4728/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -341,6 +345,7 @@ This repository includes:
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hetvi4728/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Hetvi4728/leetcode/tree/master/0965-univalued-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Hetvi4728/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
