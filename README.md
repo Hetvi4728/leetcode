@@ -233,6 +233,7 @@ This repository includes:
 | [0940-distinct-subsequences-ii](https://github.com/Hetvi4728/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Hetvi4728/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hetvi4728/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Hetvi4728/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Hetvi4728/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Hetvi4728/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Simulation
