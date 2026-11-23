@@ -64,6 +64,7 @@ This repository includes:
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hetvi4728/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Hetvi4728/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hetvi4728/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hetvi4728/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/Hetvi4728/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Hetvi4728/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Hetvi4728/leetcode/tree/master/1929-concatenation-of-array) |
@@ -112,6 +113,7 @@ This repository includes:
 | [0728-self-dividing-numbers](https://github.com/Hetvi4728/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Hetvi4728/leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hetvi4728/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hetvi4728/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hetvi4728/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Hetvi4728/leetcode/tree/master/3870-count-commas-in-range) |
@@ -212,6 +214,7 @@ This repository includes:
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hetvi4728/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hetvi4728/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Hetvi4728/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
 |  |
@@ -308,6 +311,7 @@ This repository includes:
 | ------- |
 | [0155-min-stack](https://github.com/Hetvi4728/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Hetvi4728/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hetvi4728/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -399,4 +403,8 @@ This repository includes:
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Hetvi4728/leetcode/tree/master/0257-binary-tree-paths) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hetvi4728/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
