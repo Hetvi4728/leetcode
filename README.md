@@ -73,6 +73,7 @@ This repository includes:
 | [2798-number-of-employees-who-met-the-target](https://github.com/Hetvi4728/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Hetvi4728/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Hetvi4728/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Hetvi4728/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/Hetvi4728/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hetvi4728/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hetvi4728/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -114,6 +115,7 @@ This repository includes:
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Hetvi4728/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Hetvi4728/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Hetvi4728/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hetvi4728/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hetvi4728/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Hetvi4728/leetcode/tree/master/3870-count-commas-in-range) |
@@ -269,6 +271,7 @@ This repository includes:
 | ------- |
 | [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Hetvi4728/leetcode/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Hetvi4728/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -387,6 +390,7 @@ This repository includes:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Hetvi4728/leetcode/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Hetvi4728/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
@@ -407,4 +411,8 @@ This repository includes:
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Hetvi4728/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Hetvi4728/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
