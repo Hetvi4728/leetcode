@@ -115,6 +115,7 @@ This repository includes:
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Hetvi4728/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Hetvi4728/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/Hetvi4728/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Hetvi4728/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hetvi4728/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hetvi4728/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -249,6 +250,7 @@ This repository includes:
 | [0682-baseball-game](https://github.com/Hetvi4728/leetcode/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/Hetvi4728/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1929-concatenation-of-array](https://github.com/Hetvi4728/leetcode/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/Hetvi4728/leetcode/tree/master/3360-stone-removal-game) |
 ## Stack
 |  |
 | ------- |
