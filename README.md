@@ -77,6 +77,7 @@ This repository includes:
 | [3693-climbing-stairs-ii](https://github.com/Hetvi4728/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hetvi4728/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hetvi4728/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Hetvi4728/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ This repository includes:
 | [0011-container-with-most-water](https://github.com/Hetvi4728/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Hetvi4728/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Hetvi4728/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +166,7 @@ This repository includes:
 | [1025-divisor-game](https://github.com/Hetvi4728/leetcode/tree/master/1025-divisor-game) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Hetvi4728/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/Hetvi4728/leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Hetvi4728/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
