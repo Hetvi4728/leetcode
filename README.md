@@ -78,6 +78,7 @@ This repository includes:
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hetvi4728/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hetvi4728/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Hetvi4728/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Hetvi4728/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ This repository includes:
 | [0561-array-partition](https://github.com/Hetvi4728/leetcode/tree/master/0561-array-partition) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Hetvi4728/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Hetvi4728/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Hetvi4728/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +214,7 @@ This repository includes:
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Hetvi4728/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Hetvi4728/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Hetvi4728/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Hetvi4728/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -420,4 +423,8 @@ This repository includes:
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Hetvi4728/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Hetvi4728/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
